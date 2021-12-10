@@ -1,12 +1,15 @@
 {
   "name": "@fquarato/components",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "module": "dist/components.bundle.min.js",
   "scripts": {
     "build": "webpack",
     "build-watch": "webpack --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "keywords": [],
   "author": "",
@@ -22,5 +25,6 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "gitHead": "d1057650f84c3387bf41eb10a16bfa899d4fe217"
 }
