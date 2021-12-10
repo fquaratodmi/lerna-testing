@@ -1,6 +1,6 @@
 {
   "name": "@fquarato/components",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "module": "dist/components.bundle.min.js",
   "scripts": {
