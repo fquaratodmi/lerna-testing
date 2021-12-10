@@ -1,0 +1,13 @@
+{
+  "name": "@fquarato/root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  },
+  "workspaces": [
+    "packages/**"
+  ],
+  "scripts": {
+    "start": "lerna exec --scope @fquarato/root -- yarn start"
+  }
+}
