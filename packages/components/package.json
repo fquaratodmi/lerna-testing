@@ -1,6 +1,6 @@
 {
   "name": "@fquarato/components",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "",
   "module": "dist/components.bundle.min.js",
   "scripts": {
@@ -26,5 +26,5 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "gitHead": "15ebdadf0b2ecd9a96800907d21e893395bd3682"
+  "gitHead": "1f1cefe229306a49db58618db03f4250d5d0e1d7"
 }
